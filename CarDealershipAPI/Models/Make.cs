@@ -1,5 +1,3 @@
-using System;
-
 namespace CarDealershipAPI
 {
     public enum Make
